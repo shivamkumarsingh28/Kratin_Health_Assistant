@@ -1,0 +1,25 @@
+{
+  "name": "kratin_health_assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamkumarsingh28/Kratin_Health_Assistant.git"
+  },
+  "author": "saeeam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamkumarsingh28/Kratin_Health_Assistant/issues"
+  },
+  "homepage": "https://github.com/shivamkumarsingh28/Kratin_Health_Assistant#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "tesseract.js": "^4.1.1"
+  }
+}
